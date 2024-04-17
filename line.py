@@ -1,4 +1,4 @@
-   from math import sqrt
+from math import sqrt
 def line():
     A=float(input("Ingrese el coeficiente A: "))
     B=float(input("Ingrese el coeficiente B: "))
